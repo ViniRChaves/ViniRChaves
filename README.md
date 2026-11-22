@@ -1,88 +1,20 @@
-<h1 align="center">👋 Olá, eu sou o Vinícius Chaves</h1>
+## Hi, I'm Vinícius 👋
 
-<p align="center">
-  Estudante de <strong>Fonoaudiologia</strong> pela <strong>UNIVR</strong> 🎓 e <strong>Desenvolvimento Web</strong> apaixonado por tecnologia e criação de sites!
-</p>
+Automation & AI developer based in Brazil. I build practical systems with **Python**, **Google Apps Script** and **AI agents** — and I run **SilverBadger Research**, a small digital operation for automation services, data products and developer tools.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-ribeiro-chaves-06131b2a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/badge/WordPress-E34F26?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" alt="Elementor" />
-  <img src="https://img.shields.io/badge/Estudando-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy" />
-</p>
+### What I work on
+- Spreadsheet & report automation (Excel / Google Sheets + Python)
+- Custom Python scripts: PDF extraction, file organisation, public-data collection
+- Data cleaning pipelines with reusable scripts
+- Gmail / Drive automations (Apps Script mail merge, draft-first workflows)
+- FAQ support agents (Telegram / official WhatsApp API)
+- Bug rescue for broken automations — with before/after verification
 
----
+### Selected projects
+- **Onyx — Jira Service Management Connector**: full connector contributed to the open-source Onyx project (PR #18327), purely additive, with demo and review fixes.
+- **Launch Radar**: data pipeline + scoring over 1.47M token-launch records; creator-reputation veto validated by backtest and a live dry-run.
+- **Creator Reputation Dataset**: aggregated dataset of 381,233 pump.fun creators (CSV + Parquet + SQLite), built with independent recomputation checks.
+- **Agent Opportunity Sentinel**: stdlib-only Python monitor that polls public bounty/gig feeds with dedupe and rule-based filtering.
 
-### 🚀 Sobre mim
-
-Atualmente estou fazendo o curso **Desenvolvimento Web Completo** (20 cursos + 20 projetos) com mais de 117 horas de aula e 620 vídeos, onde desenvolvo projetos reais e aprendo as principais tecnologias do mercado:
-
-- **Front-end**: HTML5, CSS3, Bootstrap, JavaScript (ES6+), JQuery, SASS
-- **Back-end**: PHP, Orientação a Objetos, PDO, MySQL, Slim Framework, MVC
-- **Mobile**: IONIC
-- **CMS**: WordPress com Elementor
-- **Extras**: Publicação de sites com cPanel, FTP, DNS, criação de APIs
-
-Além disso, sou **estudante de Fonoaudiologia** pela **UNIVR** e realizei o curso **"Computational Thinking for Problem Solving"** da **University of Pennsylvania**, com a **credencial verificada** em abril de 2025.
-
----
-
-### 💼 Projetos do curso
-
-- 🎓 UNES (Universidade fictícia - HTML)
-- 👩‍💼 Anna Bella (Portfólio pessoal - CSS)
-- 📰 Notícias da Cidade (Portal - CSS Avançado)
-- 📱 Spotify Clone (Bootstrap)
-- 🕹️ Jogo Mata Mosquito (JS)
-- 📊 App Orçamento Pessoal (JS + OOP)
-- 🆘 Help Desk (PHP)
-- ✉️ Send Mail (PHP + PDO)
-- 🐦 Twitter Clone (PHP + MySQL)
-- 🧪 API de Produtos (Slim Framework)
-- 🧠 Gasolina ou Álcool (App Mobile com IONIC)
-- 💻 Sites com WordPress + Elementor
-
----
-
-### 🛠️ Tecnologias que estou aprendendo
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinichaves&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinichaves&layout=compact&theme=dracula" />
-</p>
-
----
-
-### 💡 Curiosidades
-
-- 👨‍💻 Estou sempre buscando novos desafios e conhecimento
-- 📍 Morando em Registro-SP
-- ✨ Minha frase de motivação: *"Deixem que o futuro diga a verdade e avalie cada um de acordo com o seu trabalho e realizações. O presente pertence a eles, mas o futuro pelo qual eu sempre trabalhei pertence a mim. - Nikola Tesla"*
-
----
-
-### 🤝 Vamos conectar?
-
-Me chama no [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-ribeiro-chaves-06131b2a3/) para trocar ideias ou fazer parcerias 👋
-
-## 🐍 Snake comendo meus commits
-
-![Snake animation](https://github.com/ViniRChaves/ViniRChaves/blob/output/github-snake.svg)
-
-
+### Products & services
+Digital products: silverbadger-research.shopl.io · Freelance services via PeoplePerHour and 99Freelas (SilverBadger Research).
